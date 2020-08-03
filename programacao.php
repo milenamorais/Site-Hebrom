@@ -128,7 +128,7 @@
                         </a>
 				    </div>
                     <div class="col-md-4 text-center animate-box">
-                        <a href="" download="Programação II Santuário.png">
+                        <a>
                             <div class="staff-entry icon-prog">
                                 <i class="icon-box-add"></i>
                                 <div class="desc">

@@ -116,7 +116,16 @@
         <!-- ***** EVENTOS ***** -->
 		<div class="colorlib-work">
 			<div class="container">
-                <div class="row"> 
+				<div class="row"> 
+                    <div class="col-md-6">
+                        <img src = "images/eventos/vivifica-me.jpg" alt="Culto Juventude Hebrom Maranguape" class="img-responsive img-eventos">
+                    </div>
+                    <div class="col-md-6">
+                        <h3>1° Vivifica-me</h3>
+                        <p class="card-text"><strong>Tema: Ezequiel 37.</strong> Evento será realizado no 4° Santuário do Ministério Hebrom (Parque São João) Durante os dias 25, 26 e 27 de Agosto. E será dirigido pelo Evangelista Carlos Henrique e sua esposa, Ir Ranielle. Também contará com a presença de outros pastores e ministérios de louvor. </p>
+                    </div>
+                </div>
+                <div class="row margin5"> 
                     <div class="col-md-6">
                         <img src = "images/eventos/culto-juventude.png" alt="Culto Juventude Hebrom Maranguape" class="img-responsive img-eventos">
                     </div>

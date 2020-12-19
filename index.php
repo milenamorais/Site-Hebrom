@@ -306,15 +306,13 @@
 				</div>
 				<div class="row">
 					<div class="col-md-12 animate-box" style = "display: flex; justify-content: center; align-items: center;">
-                        <iframe width="660" height="415" src="https://www.youtube.com/embed/9gBhhCDKGGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="660" height="415" src="https://www.youtube.com/embed/f-kINYe8lhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <!-- 560 e 315   -->
 					</div>
 				</div>
 			</div>
 		</div>
         <!-- ***** FIM NOS ACOMPANHE NO YOUTUBE ***** -->
-
-        
         
         
         <!--   

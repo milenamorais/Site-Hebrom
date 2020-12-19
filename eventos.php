@@ -116,13 +116,22 @@
         <!-- ***** EVENTOS ***** -->
 		<div class="colorlib-work">
 			<div class="container">
-				<div class="row"> 
+                <div class="row"> 
                     <div class="col-md-6">
-                        <img src = "images/eventos/vivifica-me.jpg" alt="Culto Juventude Hebrom Maranguape" class="img-responsive img-eventos">
+                        <img src = "images/eventos/aniversario.jpg" alt="Culto Juventude Hebrom Maranguape" class="img-responsive img-eventos">
                     </div>
                     <div class="col-md-6">
-                        <h3>1° Vivifica-me</h3>
-                        <p class="card-text"><strong>Tema: Ezequiel 37.</strong> Evento será realizado no 4° Santuário do Ministério Hebrom (Parque São João) Durante os dias 25, 26 e 27 de Agosto. E será dirigido pelo Evangelista Carlos Henrique e sua esposa, Ir Ranielle. Também contará com a presença de outros pastores e ministérios de louvor. </p>
+                        <h3>7° Aniversário Ministério Hebrom</h3>
+                        <p class="card-text">Evento será realizado na sede entre os dias 27 a 30 de novembro ás 19:00. E contará com a presença dos pastores convidados Pr. Alfredo, Pr. Geniarle, Pr. Wagner e Pr. Lucian Luz.</p>
+                    </div>
+                </div>
+                <div class="row margin5"> 
+                    <div class="col-md-6">
+                        <img src = "images/eventos/escola-biclica.jpg" alt="Culto Juventude Hebrom Maranguape" class="img-responsive img-eventos">
+                    </div>
+                    <div class="col-md-6">
+                        <h3>Escola Bíblica para Obreiros 2020</h3>
+                        <p class="card-text">Evento que tem como tema :<strong>"Cuidando da doutrina e de si mesmo” - 1 Timóteo 4:16.</strong> Será realizado na sede do Ministério Hebrom com a presença do convidado Pr. Wilson Junior, no dia 29 de novembro de 08:00 ás 17:00.</p>
                     </div>
                 </div>
                 <div class="row margin5"> 

@@ -113,7 +113,7 @@
         <div class="colorlib-featured" style="margin-top: 8%;">
             <div class="container" style="width: 70%;">
                 <div class="row centralizado">
-                    <h2>Programação Semanal</h2>
+                    <h2>Escala Semanal</h2>
 				</div>
                 <div class="row icon-prog margin5" style="text-align: center;">
                     <div class="col-md-4 text-center animate-box">
@@ -128,7 +128,7 @@
                         </a>
 				    </div>
                     <div class="col-md-4 text-center animate-box">
-                        <a>
+                        <a href="images/programacao/programacao-santuario2.PNG" download="Programação II Santuário.png">  
                             <div class="staff-entry icon-prog">
                                 <i class="icon-box-add"></i>
                                 <div class="desc">
@@ -140,7 +140,6 @@
 				    </div>
                     <div class="col-md-4 text-center animate-box">
                         <a href="images/programacao/programacao-santuario4.PNG" download="Programação IIII Santuário.png">
-						
                             <div class="staff-entry icon-prog">
                                 <i class="icon-box-add"></i>
                                 <div class="desc">
@@ -281,7 +280,7 @@
                         <p>Criaçao de sites e portfólios</p>
 						<ul class="colorlib-footer-links">
 							<li><a href="tel://1234567920"><i class="icon-phone"></i> (85) 98811 - 7797</a></li>
-							<li><a href="mailto:info@yoursite.com"><i class="icon-envelope"></i>mmilenamorais@gmail.com</a></li>
+							<li><a href="mailto:info@yoursite."><i class="icon-envelope"></i>mmilenamorais@gmail.com</a></li>
 						</ul>
 					</div>
 				</div>

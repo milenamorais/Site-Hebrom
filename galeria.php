@@ -418,6 +418,57 @@
                                 </a>
                             </div>
                         </div>
+                        <div class="row">
+                            <div class="col-sm-6 col-md-4">
+                                <a class="lightbox" href="images/galeria/imagem56.jpeg">
+                                    <img src="images/galeria/imagem56.jpeg" alt="Ministério Hebrom Maranguape">
+                                </a>
+                            </div>
+                            <div class="col-sm-6 col-md-4">
+                                <a class="lightbox" href="images/galeria/imagem57.jpeg">
+                                    <img src="images/galeria/imagem57.jpeg" alt="Ministério Hebrom Maranguape">
+                                </a>
+                            </div>
+                            <div class="col-sm-6 col-md-4">
+                                <a class="lightbox" href="images/galeria/imagem58.jpeg">
+                                    <img src="images/galeria/imagem58.jpeg" alt="Ministério Hebrom Maranguape">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6 col-md-4">
+                                <a class="lightbox" href="images/galeria/imagem59.jpeg">
+                                    <img src="images/galeria/imagem59.jpeg" alt="Ministério Hebrom Maranguape">
+                                </a>
+                            </div>
+                            <div class="col-sm-6 col-md-4">
+                                <a class="lightbox" href="images/galeria/imagem60.jpeg">
+                                    <img src="images/galeria/imagem60.jpeg" alt="Ministério Hebrom Maranguape">
+                                </a>
+                            </div>
+                            <div class="col-sm-6 col-md-4">
+                                <a class="lightbox" href="images/galeria/imagem61.jpeg">
+                                    <img src="images/galeria/imagem61.jpeg" alt="Ministério Hebrom Maranguape">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6 col-md-4">
+                                <a class="lightbox" href="images/galeria/imagem62.jpeg">
+                                    <img src="images/galeria/imagem62.jpeg" alt="Ministério Hebrom Maranguape">
+                                </a>
+                            </div>
+                            <div class="col-sm-6 col-md-4">
+                                <a class="lightbox" href="images/galeria/imagem63.jpeg">
+                                    <img src="images/galeria/imagem63.jpeg" alt="Ministério Hebrom Maranguape">
+                                </a>
+                            </div>
+                            <div class="col-sm-6 col-md-4">
+                                <a class="lightbox" href="images/galeria/imagem64.jpeg">
+                                    <img src="images/galeria/imagem64.jpeg" alt="Ministério Hebrom Maranguape">
+                                </a>
+                            </div>
+                        </div>
                             <!--
                             <div class="col-sm-6 col-md-4   gallery-item-wrapper">
                                 <a class="lightbox" href="images/galeria/imagem11.jpg">
